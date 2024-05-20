@@ -7,7 +7,7 @@ class Solution(object):
         collector={}
         for i in strs:
             sorted_str=''.join(sorted(i))
-            if sorted_str not in collector.keys():
+            if sorted_str not in collector:
                 collector[sorted_str]=[i]
             else:
                 collector[sorted_str].append(i)
