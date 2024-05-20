@@ -6,7 +6,7 @@ class Solution(object):
         :rtype: str
         """
         collector=[]
-        sorLP=sorted([val for val in licensePlate.lower() if val.isalpha()])
+        sorLP=[val for val in licensePlate.lower() if val.isalpha()]
         for j in words:
             j=j.lower()
             if all([sorLP.count(i)<=j.count(i) for i in sorLP]):
