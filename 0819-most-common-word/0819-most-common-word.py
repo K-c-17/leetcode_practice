@@ -9,6 +9,7 @@ class Solution(object):
         new_para=''
         #pre-processing of the input paragraph
         new_para=''.join([lower(val) if val.isalnum() else ' ' for val in paragraph])
+        print(new_para)
         para_lower=[i for i in new_para.split(' ') if len(i)<>0 ]
         print(para_lower)
         for i in set(para_lower):
