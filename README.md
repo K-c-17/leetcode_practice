@@ -6,3 +6,19 @@
 - Will be covering the following DSA topics as mentioned in this [DE Dashboard](https://whimsical.com/dsa-for-data-engineers-W9dF8SC72c4dfAuCwL5jFV)
 
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1044-find-common-characters](https://github.com/K-c-17/leetcode_practice/tree/master/1044-find-common-characters) |
+## Hash Table
+|  |
+| ------- |
+| [1044-find-common-characters](https://github.com/K-c-17/leetcode_practice/tree/master/1044-find-common-characters) |
+## String
+|  |
+| ------- |
+| [1044-find-common-characters](https://github.com/K-c-17/leetcode_practice/tree/master/1044-find-common-characters) |
+<!---LeetCode Topics End-->
