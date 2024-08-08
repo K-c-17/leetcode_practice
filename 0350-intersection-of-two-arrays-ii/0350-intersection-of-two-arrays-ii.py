@@ -20,12 +20,8 @@ class Solution(object):
                     min_dict[i]=val[i]
                 else:
                     pass
-                    
-        result=[]
-        for key,value in min_dict.items():
-            if value>0:
-                result.extend([key]*value)
-        return result
+        
+        return [key for key,value in min_dict.items() for _ in range(value)]
 
 
         
