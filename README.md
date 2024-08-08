@@ -12,13 +12,27 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1044-find-common-characters](https://github.com/K-c-17/leetcode_practice/tree/master/1044-find-common-characters) |
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1044-find-common-characters](https://github.com/K-c-17/leetcode_practice/tree/master/1044-find-common-characters) |
 ## String
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/K-c-17/leetcode_practice/tree/master/1044-find-common-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
