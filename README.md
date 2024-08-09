@@ -17,11 +17,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/K-c-17/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1044-find-common-characters](https://github.com/K-c-17/leetcode_practice/tree/master/1044-find-common-characters) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/K-c-17/leetcode_practice/tree/master/0242-valid-anagram) |
 | [1044-find-common-characters](https://github.com/K-c-17/leetcode_practice/tree/master/1044-find-common-characters) |
 ## Two Pointers
 |  |
@@ -34,5 +36,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/K-c-17/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
