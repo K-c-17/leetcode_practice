@@ -6,10 +6,10 @@ class Solution(object):
         :rtype: bool
         """
         sort_asteroids=sorted(asteroids)
-
+        planet_size=mass
         for i in sort_asteroids:
-            if mass>=i:
-                mass+=i
+            if planet_size>=i:
+                planet_size+=i
             else:
                 return False
         
