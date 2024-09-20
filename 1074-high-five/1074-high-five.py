@@ -11,15 +11,9 @@ class Solution(object):
             else:
                 collector[i[0]].append(i[1])
         
-        sorted_collector={key:sorted(value,reverse=True) for key,value in collector.items()}
+        sorted_collector=[[key,sum(sorted(value,reverse=True)[0:5])/5] for key,value in collector.items()]
 
-        for id in sorted_collector.keys():
-            sorted_collector[id]=sum(sorted_collector[id][0:5])/5
-        
-
-        top_five=[[a,b] for a,b in sorted_collector.items()]
-
-        return top_five
+        return sorted_collector
 
         
         
