@@ -21,9 +21,7 @@ class Solution(object):
         array_length=counter
 
         #finding the length of the array
-        while reader.get(counter) != (2**31 - 1):
-            print(counter)
-            print(reader.get(counter))
+        while reader.get(counter) <= target:
             counter+=5
             array_length=counter
 
