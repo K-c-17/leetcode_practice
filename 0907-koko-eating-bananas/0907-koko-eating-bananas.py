@@ -2,8 +2,6 @@ import math
 class Solution(object):
     
     def eatsAll(self,piles,k,h):
-        if k==0:
-            return False
         hours=0
         for i in piles:
             banana_hours=i//k
@@ -21,17 +19,12 @@ class Solution(object):
         :type h: int
         :rtype: int
         """
-        highest_speed=max(piles)
-
-        left,right = 1,highest_speed
+        left,right = 1,max(piles)
         
-        response=-1
         while left<=right:
             middle=(left+right)//2
 
-            verdict=self.eatsAll(piles,middle,h)
-            
-            if verdict:
+            if self.eatsAll(piles,middle,h):
                 right= middle - 1
                 response=middle
             else:
