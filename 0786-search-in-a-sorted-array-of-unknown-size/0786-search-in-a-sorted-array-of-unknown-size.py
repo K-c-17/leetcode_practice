@@ -17,19 +17,20 @@ class Solution(object):
         :rtype: int
         """
 
-        counter=5
-        array_length=counter
+        start=0
+        end=1
 
         #finding the length of the array
-        while reader.get(counter) <= target:
-            counter+=5
-            array_length=counter
+        while reader.get(end) < target:
+            print(start,end)
+            start=end + 1
+            end= end * 2
 
         #initializing the pointers
-        left,right=0,array_length
+        left,right=start,end
+        print(left,right)
 
         
-
         while left <= right:
             
             #tracking the middle
