@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/K-c-17/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/K-c-17/leetcode_practice/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0792-binary-search](https://github.com/K-c-17/leetcode_practice/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/K-c-17/leetcode_practice/tree/master/0907-koko-eating-bananas) |
 | [1044-find-common-characters](https://github.com/K-c-17/leetcode_practice/tree/master/1044-find-common-characters) |
 | [1074-high-five](https://github.com/K-c-17/leetcode_practice/tree/master/1074-high-five) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/K-c-17/leetcode_practice/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/K-c-17/leetcode_practice/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0792-binary-search](https://github.com/K-c-17/leetcode_practice/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/K-c-17/leetcode_practice/tree/master/0907-koko-eating-bananas) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/K-c-17/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
