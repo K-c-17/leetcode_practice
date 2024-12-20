@@ -102,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/K-c-17/leetcode_practice/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [1181-game-play-analysis-iii](https://github.com/K-c-17/leetcode_practice/tree/master/1181-game-play-analysis-iii) |
 <!---LeetCode Topics End-->
