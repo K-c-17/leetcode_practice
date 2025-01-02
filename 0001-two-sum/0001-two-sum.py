@@ -1,14 +1,10 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        res=[]
-        for i in nums:
-            rem=nums[:]
-            rem.remove(i)
-            if target-i in rem:
-                res.extend([nums.index(i),rem.index(target-i)+1])
-                break
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        hashmap={}
+        for i in range(len(nums)):
+            complement=target-nums[i]
+            if complement in hashmap:
+                return [i,hashmap[complement]]
             else:
-                pass
-        return res
-
+                hashmap[nums[i]]=i
         
