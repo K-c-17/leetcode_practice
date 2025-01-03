@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/K-c-17/leetcode_practice/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/K-c-17/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1894-merge-strings-alternately](https://github.com/K-c-17/leetcode_practice/tree/master/1894-merge-strings-alternately) |
