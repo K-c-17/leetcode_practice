@@ -4,22 +4,20 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        n = len(nums)
-        left = [1] * n
-        right = [1] * n
-        result = [1] * n
+        n=len(nums)
+        prefix=[1]*n
+        suffix=[1]*n
+        final=[1]*n
 
-        # Compute prefix product
-        for i in range(1, n):
-            left[i] = left[i - 1] * nums[i - 1]
-
-        # Compute suffix product
-        for i in range(n - 2, -1, -1):
-            right[i] = right[i + 1] * nums[i + 1]
-
-        # Combine prefix and suffix products
-        for i in range(n):
-            result[i] = left[i] * right[i]
-
-        return result
+        for i in range(1,n):
+            prefix[i]=prefix[i-1]*nums[i-1]
         
+        for j in range(n-2,-1,-1):
+            suffix[j]=suffix[j+1]*nums[j+1]
+        
+        counter=0
+        for a,b in zip(prefix,suffix):
+            final[counter]=a*b
+            counter+=1
+        
+        return final
