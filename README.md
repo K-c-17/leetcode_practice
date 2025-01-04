@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/K-c-17/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-c-17/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/K-c-17/leetcode_practice/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/K-c-17/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0735-asteroid-collision](https://github.com/K-c-17/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/K-c-17/leetcode_practice/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/K-c-17/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [2245-destroying-asteroids](https://github.com/K-c-17/leetcode_practice/tree/master/2245-destroying-asteroids) |
 ## Heap (Priority Queue)
 |  |
