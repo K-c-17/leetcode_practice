@@ -26,7 +26,7 @@ class Solution(object):
                 is_match+=1
                 i+=1
             j+=1
-        if i==len(s):
+        if is_match==len(s):
             return True
         else:
             return False
