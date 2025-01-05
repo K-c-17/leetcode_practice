@@ -15,7 +15,7 @@ class Solution(object):
             else:
                 prefix=sum(nums[:i])
             
-            if prefix==sum(nums[i+1:]):
+            if prefix==suffix:
                 return i
         return -1
         
