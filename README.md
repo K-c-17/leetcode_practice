@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/K-c-17/leetcode_practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/K-c-17/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/K-c-17/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-c-17/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/K-c-17/leetcode_practice/tree/master/0238-product-of-array-except-self) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/K-c-17/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/K-c-17/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/K-c-17/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/K-c-17/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [2245-destroying-asteroids](https://github.com/K-c-17/leetcode_practice/tree/master/2245-destroying-asteroids) |
 ## Heap (Priority Queue)
