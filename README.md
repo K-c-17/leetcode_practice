@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/K-c-17/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/K-c-17/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0724-find-pivot-index](https://github.com/K-c-17/leetcode_practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/K-c-17/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/K-c-17/leetcode_practice/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0792-binary-search](https://github.com/K-c-17/leetcode_practice/tree/master/0792-binary-search) |
@@ -134,5 +135,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/K-c-17/leetcode_practice/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/K-c-17/leetcode_practice/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/K-c-17/leetcode_practice/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
