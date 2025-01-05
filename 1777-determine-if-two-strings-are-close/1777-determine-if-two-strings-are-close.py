@@ -23,16 +23,10 @@ class Solution(object):
         sort_freq2=sorted([y for y in freq2.values()])
 
         if {x for x in freq1.keys()}.difference({y for y in freq2.keys()})!=set():
-            print('1')
-            print({x for x in freq1.keys()})
-            print({y for y in freq2.keys()})
-            print({x for x in freq1.keys()}.difference({y for y in freq2.keys()}))
             return False
         elif sort_freq1!=sort_freq2:
-            print('2')
             return False
         else:
-            print('3')
             return True
 
         
