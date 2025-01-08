@@ -1,10 +1,10 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hashmap={}
+        compCollector={}
         for i in range(len(nums)):
-            complement=target-nums[i]
-            if complement in hashmap:
-                return [i,hashmap[complement]]
+            if nums[i] not in compCollector:
+                compCollector[target-nums[i]]=i
             else:
-                hashmap[nums[i]]=i
+                return [compCollector[nums[i]],i]
+                
         
