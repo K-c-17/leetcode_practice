@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-maximum-difference-between-increasing-elements](https://github.com/K-c-17/leetcode_practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2245-destroying-asteroids](https://github.com/K-c-17/leetcode_practice/tree/master/2245-destroying-asteroids) |
 | [2428-equal-row-and-column-pairs](https://github.com/K-c-17/leetcode_practice/tree/master/2428-equal-row-and-column-pairs) |
+| [2594-count-pairs-of-similar-strings](https://github.com/K-c-17/leetcode_practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/K-c-17/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/K-c-17/leetcode_practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/K-c-17/leetcode_practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/K-c-17/leetcode_practice/tree/master/2428-equal-row-and-column-pairs) |
+| [2594-count-pairs-of-similar-strings](https://github.com/K-c-17/leetcode_practice/tree/master/2594-count-pairs-of-similar-strings) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/K-c-17/leetcode_practice/tree/master/1044-find-common-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/K-c-17/leetcode_practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/K-c-17/leetcode_practice/tree/master/1894-merge-strings-alternately) |
+| [2594-count-pairs-of-similar-strings](https://github.com/K-c-17/leetcode_practice/tree/master/2594-count-pairs-of-similar-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/K-c-17/leetcode_practice/tree/master/1777-determine-if-two-strings-are-close) |
+| [2594-count-pairs-of-similar-strings](https://github.com/K-c-17/leetcode_practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/K-c-17/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Interactive
 |  |
@@ -152,4 +156,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/K-c-17/leetcode_practice/tree/master/2428-equal-row-and-column-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2594-count-pairs-of-similar-strings](https://github.com/K-c-17/leetcode_practice/tree/master/2594-count-pairs-of-similar-strings) |
 <!---LeetCode Topics End-->
