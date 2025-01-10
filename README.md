@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/K-c-17/leetcode_practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/K-c-17/leetcode_practice/tree/master/1894-merge-strings-alternately) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/K-c-17/leetcode_practice/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2470-removing-stars-from-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/2470-removing-stars-from-a-string) |
 | [2594-count-pairs-of-similar-strings](https://github.com/K-c-17/leetcode_practice/tree/master/2594-count-pairs-of-similar-strings) |
 ## Two Pointers
 |  |
@@ -106,11 +107,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/K-c-17/leetcode_practice/tree/master/0735-asteroid-collision) |
+| [2470-removing-stars-from-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/K-c-17/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/K-c-17/leetcode_practice/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
