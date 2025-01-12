@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/K-c-17/leetcode_practice/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/K-c-17/leetcode_practice/tree/master/0394-decode-string) |
 | [1044-find-common-characters](https://github.com/K-c-17/leetcode_practice/tree/master/1044-find-common-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/K-c-17/leetcode_practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/K-c-17/leetcode_practice/tree/master/1894-merge-strings-alternately) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/K-c-17/leetcode_practice/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/K-c-17/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/K-c-17/leetcode_practice/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/K-c-17/leetcode_practice/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
