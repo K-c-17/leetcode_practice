@@ -10,6 +10,6 @@ class Solution(object):
             comp=target-numbers[i]
             if numbers[i] not in collector.keys():
                 collector[comp]=i
-            elif i > collector[numbers[i]]:
+            else:
                 return [collector[numbers[i]]+1,i+1]
         
