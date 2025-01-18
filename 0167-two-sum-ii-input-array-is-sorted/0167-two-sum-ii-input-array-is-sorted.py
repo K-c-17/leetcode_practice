@@ -12,7 +12,4 @@ class Solution(object):
                 collector[comp]=i
             elif i > collector[numbers[i]]:
                 return [collector[numbers[i]]+1,i+1]
-            else:
-                print('no condition')
-                pass
         
