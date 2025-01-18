@@ -5,11 +5,15 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        collector={}
-        for i in range(len(numbers)):
-            comp=target-numbers[i]
-            if numbers[i] not in collector.keys():
-                collector[comp]=i
+        left=0
+        right=len(numbers)-1
+
+        while right>left:
+            comp=numbers[left]+numbers[right]
+            if comp>target:
+                right-=1
+            elif comp<target:
+                left+=1
             else:
-                return [collector[numbers[i]]+1,i+1]
+                return [left+1,right+1]
         
