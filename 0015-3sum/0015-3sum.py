@@ -22,9 +22,10 @@ class Solution(object):
                 elif comp<residual_sum:
                     left+=1
                 else:
-                    if [sor_nums[i],sor_nums[left],sor_nums[right]] not in res:
-                        res.append([sor_nums[i],sor_nums[left],sor_nums[right]])
+                    res.append([sor_nums[i],sor_nums[left],sor_nums[right]])
                     right-=1
+                    while sor_nums[right] == sor_nums[right+1] and right>left:
+                        right-=1
                 #print('value of res:',res)
         return res
 
