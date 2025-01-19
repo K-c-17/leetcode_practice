@@ -6,13 +6,13 @@ class Solution(object):
         """
         res=[]
         sor_nums=sorted(nums)
-        counter=[]
         target=0
 
         for i in range(len(sor_nums)-2):
             #print('number of iteration: ',i)
-            #print('Counter :',counter)
-            if sor_nums[i] not in counter:
+            if i>0 and sor_nums[i]==sor_nums[i-1]:
+                continue
+            else:
                 residual_sum=target-sor_nums[i]
                 left=i+1
                 right=len(nums)-1
@@ -27,9 +27,6 @@ class Solution(object):
                             res.append([sor_nums[i],sor_nums[left],sor_nums[right]])
                         right-=1
                     #print('value of res:',res)
-                counter.append(sor_nums[i])
-            else:
-                continue
         return res
 
 
