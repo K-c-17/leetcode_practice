@@ -12,13 +12,11 @@ class Solution(object):
         for i in s:
             if i in open_brac:
                 stack.append(i)
-            elif stack!=[] and i in close_brac:
-                if mapping[i]==stack.pop():
-                    pass
-                else:
-                    return False
             else:
-                return False
-        
+                if stack==[]:
+                    return False
+                else:
+                    if mapping[i] != stack.pop():
+                        return False
         return False if stack!=[] else True
                     
