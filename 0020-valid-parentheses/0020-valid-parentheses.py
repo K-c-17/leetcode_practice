@@ -4,19 +4,18 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        open_brac = '({['
-        close_brac = ')}]'
         stack=[]
         mapping = {')':'(',']':'[','}':'{'}
 
         for i in s:
-            if i in open_brac:
-                stack.append(i)
-            else:
-                if stack==[]:
+            if i in mapping.keys():
+                top_element = stack.pop() if stack else 'dummy'
+
+                if top_element!=mapping[i]:
                     return False
-                else:
-                    if mapping[i] != stack.pop():
-                        return False
-        return False if stack!=[] else True
-                    
+            
+            else:
+                stack.append(i)
+        
+        return True if not stack else False
+
