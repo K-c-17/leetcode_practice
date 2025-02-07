@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/K-c-17/leetcode_practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/K-c-17/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/K-c-17/leetcode_practice/tree/master/0242-valid-anagram) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1044-find-common-characters](https://github.com/K-c-17/leetcode_practice/tree/master/1044-find-common-characters) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/K-c-17/leetcode_practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/K-c-17/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/K-c-17/leetcode_practice/tree/master/0242-valid-anagram) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1074-high-five](https://github.com/K-c-17/leetcode_practice/tree/master/1074-high-five) |
 | [1777-determine-if-two-strings-are-close](https://github.com/K-c-17/leetcode_practice/tree/master/1777-determine-if-two-strings-are-close) |
@@ -199,21 +201,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/K-c-17/leetcode_practice/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/K-c-17/leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/K-c-17/leetcode_practice/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/K-c-17/leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/K-c-17/leetcode_practice/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/K-c-17/leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/K-c-17/leetcode_practice/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/K-c-17/leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 <!---LeetCode Topics End-->
