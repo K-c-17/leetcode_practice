@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/K-c-17/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/K-c-17/leetcode_practice/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/K-c-17/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/K-c-17/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/K-c-17/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/K-c-17/leetcode_practice/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/K-c-17/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K-c-17/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/K-c-17/leetcode_practice/tree/master/0283-move-zeroes) |
