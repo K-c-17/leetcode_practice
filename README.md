@@ -191,4 +191,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/K-c-17/leetcode_practice/tree/master/2292-counting-words-with-a-given-prefix) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/K-c-17/leetcode_practice/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/K-c-17/leetcode_practice/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/K-c-17/leetcode_practice/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/K-c-17/leetcode_practice/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
