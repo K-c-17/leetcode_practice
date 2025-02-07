@@ -17,15 +17,13 @@ class Solution(object):
         result=[]
 
         while queue:
-            level = []
             for i in range(len(queue)):
                 current=queue.popleft()
-                level.append(current.val)
                 if current.left:
                     queue.append(current.left)
                 if current.right:
                     queue.append(current.right)
-            result.append(level[-1])
+            result.append(current.val)
         return result
             
 
