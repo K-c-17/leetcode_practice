@@ -14,23 +14,16 @@ class Solution(object):
             return []
         queue=collections.deque()
         queue.append((root,0))
-        col_map={}
+        
+        col_map=defaultdict(list)
+        
         while queue:
             current,col=queue.popleft()
-            if col not in col_map.keys():
-                col_map[col]=[current.val]
-            else:
-                col_map[col].append(current.val)
             if current.left:
                 queue.append((current.left,col-1))
             if current.right:
                 queue.append((current.right,col+1))
-
-        sor_list=sorted([x for x in col_map.keys()])
-        final=[]
-        for i in sor_list:
-            final.append(col_map[i])
+            col_map[col].append(current.val)
         
-        return final
-
+        return [col_map[i] for i in sorted(col_map.keys())]
         
