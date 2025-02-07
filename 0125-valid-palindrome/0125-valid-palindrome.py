@@ -8,8 +8,8 @@ class Solution(object):
         right=len(s)-1
 
         while right>=left:
-            print("left:",s[left])
-            print("right:",s[right])
+            #print("left:",s[left])
+            #print("right:",s[right])
             
             if s[left].isalnum() and s[right].isalnum():
                 if s[left].lower() != s[right].lower():
