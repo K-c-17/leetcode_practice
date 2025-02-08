@@ -11,7 +11,7 @@ class Solution(object):
         :rtype: Optional[TreeNode]
         """
         if not root:
-            return []
+            return root
         
         queue=collections.deque()
         queue.append(root)
