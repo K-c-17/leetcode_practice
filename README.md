@@ -202,12 +202,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/K-c-17/leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/K-c-17/leetcode_practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/K-c-17/leetcode_practice/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/K-c-17/leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/K-c-17/leetcode_practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/K-c-17/leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/K-c-17/leetcode_practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -222,4 +225,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/K-c-17/leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/K-c-17/leetcode_practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
