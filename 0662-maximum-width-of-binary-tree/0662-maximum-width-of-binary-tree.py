@@ -10,6 +10,8 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
+        if not root:
+            return 0
         queue = collections.deque()
         queue.append((root,1,0))
         max_width=float('-inf')
