@@ -15,15 +15,15 @@ class Solution(object):
         final=defaultdict()
         
         while queue:
-            temp=[]
+            temp=0
             for i in range(len(queue)):
                 current,level = queue.popleft()
-                temp.append(current.val)
+                temp+=current.val
                 if current.left:
                     queue.append((current.left,level+1))
                 if current.right:
                     queue.append((current.right,level+1))
-            final[level]=sum(temp)
+            final[level]=temp
         
         return max(final,key=final.get)
 
