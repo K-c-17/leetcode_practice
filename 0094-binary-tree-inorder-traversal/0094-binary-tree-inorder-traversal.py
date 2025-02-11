@@ -10,14 +10,28 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[int]
         """
+        # output=[]
+        # self.inorder_helper(root,output)
+        # return output
+
+    # def inorder_helper(self,root,output):
+    #     if root:
+    #         self.inorder_helper(root.left,output)
+    #         output.append(root.val)
+    #         self.inorder_helper(root.right,output)
         output=[]
-        self.inorder_helper(root,output)
+        stack=[]
+        current=root
+
+        while stack or current:
+            while current:
+                stack.append(current)
+                current=current.left
+            current=stack.pop()
+            output.append(current.val)
+            current=current.right
         return output
 
-    def inorder_helper(self,root,output):
-        if root:
-            self.inorder_helper(root.left,output)
-            output.append(root.val)
-            self.inorder_helper(root.right,output)
+
 
         
