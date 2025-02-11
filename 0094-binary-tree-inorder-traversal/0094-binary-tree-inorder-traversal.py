@@ -23,15 +23,15 @@ class Solution(object):
         stack=[]
         current=root
 
-        while stack or current:
+        while current or stack:
             while current:
                 stack.append(current)
                 current=current.left
             current=stack.pop()
             output.append(current.val)
             current=current.right
+        
         return output
-
 
 
         
