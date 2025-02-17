@@ -7,13 +7,11 @@ class Solution(object):
         if len(nums)==1:
             return nums[0]+1
         
-        seq_stack=[nums[0]]
+        total_sum=nums[0]
         start=1
-        while start<len(nums) and nums[start]==seq_stack[-1]+1:
-            seq_stack.append(nums[start])
+        while start<len(nums) and nums[start]==nums[start-1]+1:
+            total_sum+=nums[start]
             start+=1
-        
-        total_sum=sum(seq_stack)
         
         sort_seq=sorted(nums)
         
