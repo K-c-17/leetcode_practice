@@ -4,9 +4,6 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        if len(nums)==1:
-            return nums[0]+1
-        
         total_sum=nums[0]
         start=1
         while start<len(nums) and nums[start]==nums[start-1]+1:
