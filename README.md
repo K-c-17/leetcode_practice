@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/K-c-17/leetcode_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2594-count-pairs-of-similar-strings](https://github.com/K-c-17/leetcode_practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/K-c-17/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-c-17/leetcode_practice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/K-c-17/leetcode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/K-c-17/leetcode_practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/K-c-17/leetcode_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2594-count-pairs-of-similar-strings](https://github.com/K-c-17/leetcode_practice/tree/master/2594-count-pairs-of-similar-strings) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-c-17/leetcode_practice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1074-high-five](https://github.com/K-c-17/leetcode_practice/tree/master/1074-high-five) |
 | [1777-determine-if-two-strings-are-close](https://github.com/K-c-17/leetcode_practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [2245-destroying-asteroids](https://github.com/K-c-17/leetcode_practice/tree/master/2245-destroying-asteroids) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-c-17/leetcode_practice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/K-c-17/leetcode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
 |  |
