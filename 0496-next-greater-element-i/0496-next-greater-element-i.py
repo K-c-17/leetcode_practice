@@ -5,20 +5,21 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        final=[]
-        for i in nums1:
-            start=nums2.index(i)
-            exists=0
-            for j in nums2[start+1:]:
-                if j>i:
-                    exists=1
-                    final.append(j)
-                    break
-            if exists==0:
-                final.append(-1)
+        stack=[]
+        mapping={}
+        for i in nums2:
+            while stack and i>stack[-1]:
+                element=stack.pop()
+                mapping[element]=i
+            stack.append(i)
         
-        print(final)
-        return final
+        while stack:
+            last=stack.pop()
+            mapping[last]=-1
+        
+        print([mapping[x] for x in nums1])
+        
+        return [mapping[x] for x in nums1]
 
 
         
