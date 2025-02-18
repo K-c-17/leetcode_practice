@@ -11,20 +11,25 @@ class Solution(object):
         :rtype: int
         """
         max_dia=[0]
-        self.helper_func(root,max_dia)
-
+        longest_path=[[]]
+        self.helper_func(root,max_dia,longest_path)
+        print(longest_path)
         return max_dia[0]
 
-    def helper_func(self,root,max_dia):
+    def helper_func(self,root,max_dia,longest_path):
         if not root:
-            return 0
+            return 0,[]
         
-        left_height=self.helper_func(root.left,max_dia)
-        right_height=self.helper_func(root.right,max_dia)
+        left_height,left_path=self.helper_func(root.left,max_dia,longest_path)
+        right_height,right_path=self.helper_func(root.right,max_dia,longest_path)
 
-        max_dia[0]=max(max_dia[0],left_height+right_height)
-
-        return 1+ max(left_height,right_height)
+        if left_height+right_height>max_dia[0]:
+            max_dia[0]=left_height+right_height
+            longest_path[0]=left_path+[root.val]+right_path  
         
-
-        
+        if left_height>right_height:
+            left_height+=1
+            return left_height,left_path+[root.val]
+        else:
+            right_height+=1
+            return right_height,right_path+[root.val]
