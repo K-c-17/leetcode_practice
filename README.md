@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/K-c-17/leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/K-c-17/leetcode_practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/K-c-17/leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/K-c-17/leetcode_practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/K-c-17/leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/K-c-17/leetcode_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/K-c-17/leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/K-c-17/leetcode_practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/K-c-17/leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/K-c-17/leetcode_practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/K-c-17/leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/K-c-17/leetcode_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/K-c-17/leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/K-c-17/leetcode_practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/K-c-17/leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/K-c-17/leetcode_practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/K-c-17/leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/K-c-17/leetcode_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
