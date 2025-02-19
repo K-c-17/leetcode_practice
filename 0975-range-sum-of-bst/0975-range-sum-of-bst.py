@@ -41,7 +41,7 @@ class Solution(object):
     #DFS on BST
     def dfs_helper(self,root,low,high):
         if not root:
-            print("Hit the leaf")
+            #print("Hit the leaf")
             return
         if root.val<low:
             self.dfs_helper(root.right,low,high)
