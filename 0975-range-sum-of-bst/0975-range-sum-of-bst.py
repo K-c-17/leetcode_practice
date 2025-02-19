@@ -46,7 +46,7 @@ class Solution(object):
         if root.val<low:
             self.dfs_helper(root.right,low,high)
             return
-        if root.val>high:
+        elif root.val>high:
             self.dfs_helper(root.left,low,high)
             return
         else:
