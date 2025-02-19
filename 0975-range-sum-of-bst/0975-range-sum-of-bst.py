@@ -12,16 +12,47 @@ class Solution(object):
         :type high: int
         :rtype: int
         """
-        queue=collections.deque()
-        queue.append(root)
-        total=0
-        while queue:
-            curr=queue.popleft()
-            if curr.val >= low and curr.val <= high:
-                total+=curr.val
-            if curr.left:
-                queue.append(curr.left)
-            if curr.right:
-                queue.append(curr.right)
+        self.total=0
+        self.dfs_helper(root,low,high)
+        return self.total
+        #####BFS
+        # queue=collections.deque()
+        # queue.append(root)
+        # total=0
+        # while queue:
+        #     curr=queue.popleft()
+        #     if curr.val >= low and curr.val <= high:
+        #         total+=curr.val
+        #     if curr.left:
+        #         queue.append(curr.left)
+        #     if curr.right:
+        #         queue.append(curr.right)
         
-        return total
+        # return total
+    #####DFS
+    # def dfs_helper(self,root,low,high):
+    #     if not root:
+    #         return
+    #     if root.val>=low and root.val<=high:
+    #         self.total+=root.val
+    #     self.dfs_helper(root.left,low,high)
+    #     self.dfs_helper(root.right,low,high)
+
+    #DFS on BST
+    def dfs_helper(self,root,low,high):
+        if not root:
+            print("Hit the leaf")
+            return
+        if root.val<low:
+            self.dfs_helper(root.right,low,high)
+            return
+        if root.val>high:
+            self.dfs_helper(root.left,low,high)
+            return
+        else:
+            print("Pre-add total:",self.total)
+            print("Value added",root.val)
+            self.total+=root.val
+            print("Post-add total:",self.total)
+            self.dfs_helper(root.left,low,high)
+            self.dfs_helper(root.right,low,high)
