@@ -50,9 +50,9 @@ class Solution(object):
             self.dfs_helper(root.left,low,high)
             return
         else:
-            print("Pre-add total:",self.total)
-            print("Value added",root.val)
+            #print("Pre-add total:",self.total)
+            #print("Value added",root.val)
             self.total+=root.val
-            print("Post-add total:",self.total)
+            #print("Post-add total:",self.total)
             self.dfs_helper(root.left,low,high)
             self.dfs_helper(root.right,low,high)
