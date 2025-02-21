@@ -21,18 +21,13 @@ class Solution(object):
             if abs(target-curr.val) == self.distance:
                 self.closest=min(self.closest,curr.val)
             elif abs(target-curr.val) < self.distance:
-                print(curr.val)
-                print(abs(target-curr.val))
                 self.closest=curr.val
                 self.distance=abs(target-curr.val)
-                print(self.closest)
             
             if curr.left:
                 queue.append(curr.left)
             if curr.right:
-                queue.append(curr.right)
-        else:
-            pass
+                queue.append(curr.right)        
         
         return self.closest
         
