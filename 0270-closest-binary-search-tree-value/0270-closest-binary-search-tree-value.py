@@ -13,8 +13,9 @@ class Solution(object):
         """
         queue=collections.deque()
         queue.append(root)
-        self.closest=0
-        self.distance=float('inf')
+        
+        self.closest=root.val
+        self.distance=abs(target-root.val)
         
         while queue:
             curr=queue.popleft()
