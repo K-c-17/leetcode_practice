@@ -12,6 +12,52 @@ class Solution(object):
         """
         if not root:
             return []
+        
+        queue=collections.deque()
+        queue.append(root)
+        final=[]
+        
+        while queue:
+            temp=[]
+            for _ in range(len(queue)):
+                current=queue.popleft()
+                temp.append(current.val)
+                if current.left:
+                    queue.append(current.left)
+                if current.right:
+                    queue.append(current.right)
+            final.append(temp)
+        
+        return final
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
+
+
+        if not root:
+            return []
         queue = collections.deque()
         queue.append(root)
         result=[]
@@ -28,4 +74,4 @@ class Solution(object):
             result.append(temp)
         return result
         
-        
+'''
