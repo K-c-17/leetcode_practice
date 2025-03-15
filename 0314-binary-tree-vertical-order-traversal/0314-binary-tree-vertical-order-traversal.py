@@ -14,6 +14,53 @@ class Solution(object):
             return []
         queue=collections.deque()
         queue.append((root,0))
+        final=defaultdict(list)
+
+        while queue:
+            current,col=queue.popleft()
+            final[col].append(current.val)
+
+            if current.left:
+                queue.append((current.left,col-1))
+            
+            if current.right:
+                queue.append((current.right,col+1))
+        
+        sort_list=sorted(x for x in final.keys())
+
+        return [final[x] for x in sort_list]
+
+            
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
+        if not root:
+            return []
+        queue=collections.deque()
+        queue.append((root,0))
         
         col_map=defaultdict(list)
         
@@ -26,4 +73,5 @@ class Solution(object):
             col_map[col].append(current.val)
         
         return [col_map[i] for i in sorted(col_map.keys())]
-        
+
+'''
