@@ -25,10 +25,8 @@ class Solution(object):
             
             if current.right:
                 queue.append((current.right,col+1))
-        
-        sort_list=sorted(x for x in final.keys())
 
-        return [final[x] for x in sort_list]
+        return [final[x] for x in sorted(final.keys())]
 
             
                 
