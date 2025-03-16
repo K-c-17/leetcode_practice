@@ -12,6 +12,7 @@ class Solution(object):
         """
         if not root:
             return []
+        
         queue=collections.deque()
         queue.append(root)
         final=[]
