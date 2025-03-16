@@ -10,51 +10,6 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: Optional[TreeNode]
         """
-        queue=collections.deque()
-        level=0
-        queue.append(root)
-
-        while queue:
-            temp=[]
-            for _ in range(len(queue)):
-                current=queue.popleft()
-                temp.append(current)
-                if current.left:
-                    queue.append(current.left)
-                if current.right:
-                    queue.append(current.right)
-            if level%2!=0:
-                left=0
-                right=len(temp)-1
-                
-                while left<right:
-                    temp[left].val,temp[right].val=temp[right].val,temp[left].val
-                    left+=1
-                    right-=1    
-            level+=1
-            
-        return root
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        '''
         if not root:
             return root
         
@@ -82,4 +37,3 @@ class Solution(object):
                     right-=1           
             level+=1
         return root
-        '''
