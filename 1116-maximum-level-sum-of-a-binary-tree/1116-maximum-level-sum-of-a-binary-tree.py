@@ -10,42 +10,7 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        queue=collections.deque()
-        queue.append(root)
-        level=1
-        level_sum={}
 
-        while queue:
-            temp=0
-            for _ in range(len(queue)):
-                current=queue.popleft()
-                temp+=current.val
-                if current.left:
-                    queue.append(current.left)
-                if current.right:
-                    queue.append(current.right)
-
-            level_sum[level]=temp
-            level+=1
-
-        return max(level_sum, key=level_sum.get)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        '''
         queue = collections.deque()
         queue.append(root)
         sum_at_level,level=float('-inf'),0
@@ -64,7 +29,6 @@ class Solution(object):
                 sum_at_level,min_level=temp,level
        
         return min_level
-        '''
 
                 
                 
