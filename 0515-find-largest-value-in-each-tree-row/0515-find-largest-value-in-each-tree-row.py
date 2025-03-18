@@ -14,18 +14,25 @@ class Solution(object):
             return []
         queue=collections.deque()
         queue.append(root)
-        final=[]
+        output=[]
+
         while queue:
-            temp=[]
+            max_val=float("-inf")
             for _ in range(len(queue)):
                 current=queue.popleft()
-                temp.append(current.val)
+                if current.val>max_val:
+                    max_val=current.val
                 if current.left:
                     queue.append(current.left)
                 if current.right:
                     queue.append(current.right)
-            final.append(max(temp))
-        return  final
+            
+            output.append(max_val)
+        return output
+
+
+
+
 
 
 
