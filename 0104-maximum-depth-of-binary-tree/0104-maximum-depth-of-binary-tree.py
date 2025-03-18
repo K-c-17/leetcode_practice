@@ -13,53 +13,6 @@ class Solution(object):
         if not root:
             return 0
         queue=collections.deque()
-        queue.append((root,0))
-        max_depth=float("-inf")
-
-        while queue:
-            current,level=queue.popleft()
-            if level>max_depth:
-                max_depth=level
-            if current.left:
-                queue.append((current.left,level+1))
-            if current.right:
-                queue.append((current.right,level+1))
-            
-        
-        return max_depth+1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        '''
-        if not root:
-            return 0
-        queue=collections.deque()
         queue.append((root,1))
 
         while queue:
@@ -68,9 +21,7 @@ class Solution(object):
                 queue.append((current.left,level+1))
             if current.right:
                 queue.append((current.right,level+1))
-        print("level",level)
         return level
-        '''
             
 
         
