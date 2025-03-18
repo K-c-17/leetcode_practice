@@ -16,13 +16,6 @@ class Solution(object):
         while head:
             output.append(head.val)
             head=head.next
-        start=0
-        end=len(output)-1
-        while end>=start:
-            if output[start]!=output[end]:
-                return False
-            start+=1
-            end-=1
-        return True
+        return output==output[::-1]
         
         
