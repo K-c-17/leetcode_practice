@@ -16,6 +16,55 @@ class Solution(object):
         """
         if not root:
             return root
+        
+        queue=collections.deque()
+        queue.append(root)
+
+        while queue:
+            val=len(queue)
+            for i in range(val):
+                current=queue.popleft()
+                if i!=val-1:
+                    current.next=queue[0]
+                if current.left:
+                    queue.append(current.left)
+                if current.right:
+                    queue.append(current.right)
+        return root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        '''
+        if not root:
+            return root
         queue = collections.deque()
         queue.append(root)
         
@@ -31,4 +80,5 @@ class Solution(object):
                 if current.right:
                     queue.append(current.right)
         return root
+        '''
         
