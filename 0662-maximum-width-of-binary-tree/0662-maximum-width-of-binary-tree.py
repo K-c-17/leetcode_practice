@@ -10,6 +10,46 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
+        queue=collections.deque()
+        queue.append((root,1))
+        max_length=float("-inf")
+
+        while queue:
+            temp=[]
+            for _ in range(len(queue)):
+                current,alias=queue.popleft()
+                temp.append(alias)
+                if current.left:
+                    queue.append((current.left,alias*2))
+                if current.right:
+                    queue.append((current.right,(alias*2)+1))
+            
+            length=temp[-1]-temp[0]+1
+            
+            if length>max_length:
+                max_length=length
+
+        
+        return max_length
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        '''
         if not root:
             return 0
         queue = collections.deque()
@@ -29,6 +69,7 @@ class Solution(object):
                 max_width=(num-start)+1
         
         return max_width
+        '''
             
             
 
