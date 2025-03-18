@@ -19,6 +19,39 @@ class Solution(object):
     #         self.inorder_helper(root.left,output)
     #         output.append(root.val)
     #         self.inorder_helper(root.right,output)
+        stack,current=[],root
+        output=[]
+
+        while stack or current:
+            while current:
+                stack.append(current)
+                current=current.left
+            current=stack.pop()
+            output.append(current.val)
+            current=current.right
+        
+        return output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    '''
         output=[]
         stack=[]
         current=root
@@ -32,6 +65,6 @@ class Solution(object):
             current=current.right
         
         return output
-
+    '''
 
         
