@@ -9,14 +9,12 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        collector=[]
         current=head
         prev_node=None
 
         while current:
             temp=current.next
-            if current.val not in collector:
-                collector.append(current.val)
+            if not prev_node or current.val != prev_node.val:
                 prev_node=current
             else:
                 prev_node.next=current.next
