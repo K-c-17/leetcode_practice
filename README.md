@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/K-c-17/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/K-c-17/leetcode_practice/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0792-binary-search](https://github.com/K-c-17/leetcode_practice/tree/master/0792-binary-search) |
+| [0817-design-hashmap](https://github.com/K-c-17/leetcode_practice/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/K-c-17/leetcode_practice/tree/master/0907-koko-eating-bananas) |
 | [1044-find-common-characters](https://github.com/K-c-17/leetcode_practice/tree/master/1044-find-common-characters) |
 | [1074-high-five](https://github.com/K-c-17/leetcode_practice/tree/master/1074-high-five) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/K-c-17/leetcode_practice/tree/master/0496-next-greater-element-i) |
+| [0817-design-hashmap](https://github.com/K-c-17/leetcode_practice/tree/master/0817-design-hashmap) |
 | [1044-find-common-characters](https://github.com/K-c-17/leetcode_practice/tree/master/1044-find-common-characters) |
 | [1074-high-five](https://github.com/K-c-17/leetcode_practice/tree/master/1074-high-five) |
 | [1319-unique-number-of-occurrences](https://github.com/K-c-17/leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0206-reverse-linked-list](https://github.com/K-c-17/leetcode_practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/K-c-17/leetcode_practice/tree/master/0234-palindrome-linked-list) |
+| [0817-design-hashmap](https://github.com/K-c-17/leetcode_practice/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/K-c-17/leetcode_practice/tree/master/0908-middle-of-the-linked-list) |
 ## Monotonic Stack
 |  |
@@ -297,4 +300,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/K-c-17/leetcode_practice/tree/master/0270-closest-binary-search-tree-value) |
 | [0975-range-sum-of-bst](https://github.com/K-c-17/leetcode_practice/tree/master/0975-range-sum-of-bst) |
+## Design
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/K-c-17/leetcode_practice/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/K-c-17/leetcode_practice/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
