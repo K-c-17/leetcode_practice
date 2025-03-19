@@ -13,13 +13,11 @@ class Solution(object):
         prev_node=None
 
         while current:
-            temp=current.next
             if not prev_node or current.val != prev_node.val:
                 prev_node=current
             else:
                 prev_node.next=current.next
-                current.next=None
-            current=temp
+            current=current.next
         
         return head
 
