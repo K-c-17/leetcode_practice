@@ -177,10 +177,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/K-c-17/leetcode_practice/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/K-c-17/leetcode_practice/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/K-c-17/leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/K-c-17/leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/K-c-17/leetcode_practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/K-c-17/leetcode_practice/tree/master/0206-reverse-linked-list) |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/K-c-17/leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/K-c-17/leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/K-c-17/leetcode_practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/K-c-17/leetcode_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
