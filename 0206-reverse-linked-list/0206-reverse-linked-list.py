@@ -9,6 +9,37 @@ class Solution(object):
         :type head: ListNode
         :rtype: ListNode
         """
+        current=head
+        prev_node=None
+
+        while current:
+            temp=current.next
+            current.next=prev_node
+            prev_node=current
+            current=temp
+        
+        return prev_node
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        '''
         while head:
             if (not head.next) or (not head):
                 return head
@@ -17,6 +48,7 @@ class Solution(object):
                 head.next.next=head
                 head.next=None
                 return new_head
+        '''
         
             
         
