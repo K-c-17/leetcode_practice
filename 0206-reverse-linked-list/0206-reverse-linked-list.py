@@ -9,6 +9,36 @@ class Solution(object):
         :type head: ListNode
         :rtype: ListNode
         """
+        while head:
+            if not head.next or not head:
+                return head
+            else:
+                new_head=self.reverseList(head.next)
+                head.next.next=head
+                head.next=None
+                return new_head
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        '''
         current=head
         prev_node=None
 
@@ -19,6 +49,7 @@ class Solution(object):
             current=temp
         
         return prev_node
+        '''
 
 
 
