@@ -16,9 +16,8 @@ class Solution(object):
         while current:
             if current in collector:
                 return True
-            else:
-                collector.add(current)
-                current=current.next
+            collector.add(current)
+            current=current.next
         return False
 
         
