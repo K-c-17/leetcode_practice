@@ -8,10 +8,8 @@ class Solution(object):
 
         for i in nums:
             freq[i]+=1
-        
-        for j in freq.keys():
-            if freq[j]>=2:
-                return True
 
-        return False
+        return any(freq[j]>=2 for j in freq)
+
+
             
