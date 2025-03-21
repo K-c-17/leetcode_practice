@@ -14,7 +14,7 @@ class Solution(object):
 
         start=sentinel
 
-        while curr1 or curr2:
+        while curr1 or curr2 or carry:
             val1 = curr1.val if curr1 else 0
             val2 = curr2.val if curr2 else 0
             pair_sum=val1 + val2 + carry
@@ -25,24 +25,8 @@ class Solution(object):
             curr2=curr2.next if curr2 else None
             start=start.next
         
-        # while curr1:
-        #     pair_sum=curr1.val+carry
-        #     start.next=ListNode(pair_sum % 10)
-        #     carry=pair_sum // 10
-
-        #     curr1=curr1.next
-        #     start=start.next
-        
-        # while curr2:
-        #     pair_sum=curr2.val+carry
-        #     start.next=ListNode(pair_sum % 10)
-        #     carry=pair_sum // 10
-
-        #     curr2=curr2.next
-        #     start=start.next
-        
-        if carry>0:
-            start.next=ListNode(carry)
+        # if carry>0:
+        #     start.next=ListNode(carry)
         
         return sentinel.next
 
