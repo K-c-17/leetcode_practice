@@ -11,7 +11,8 @@ class Solution(object):
             if r+k<size:
                 final[r+k]=nums[r]
             else:
-                final[r+k-((r+k)//size)*size]=nums[r]
+                loop=(r+k)//size
+                final[r+k-(loop*size)]=nums[r]
         nums[:]=final
         
         return nums
