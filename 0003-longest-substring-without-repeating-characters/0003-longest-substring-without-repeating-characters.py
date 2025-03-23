@@ -27,7 +27,6 @@ class Solution(object):
                 break
             elif not match:
                 r+=1
-            print(max_len)
         
         return max_len
                 
