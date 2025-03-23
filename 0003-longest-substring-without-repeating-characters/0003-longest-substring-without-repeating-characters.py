@@ -4,6 +4,22 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
+        l=0
+        max_len=0
+        seen={}
+
+        for r in range(len(s)):
+            if s[r] in seen and l<=seen[s[r]]:
+                l=seen[s[r]]+1
+            seen[s[r]]=r
+            max_len=max(max_len,r-l+1)
+        
+        return max_len        
+        
+        
+        
+        
+        '''
         if s=='':
             return 0
         elif s.strip()=='' and len(s)>=1:
@@ -29,6 +45,7 @@ class Solution(object):
                 r+=1
         
         return max_len
+        '''
                 
 
                 
