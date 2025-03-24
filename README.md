@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/K-c-17/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/K-c-17/leetcode_practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/K-c-17/leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/K-c-17/leetcode_practice/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/K-c-17/leetcode_practice/tree/master/0496-next-greater-element-i) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/K-c-17/leetcode_practice/tree/master/0155-min-stack) |
 | [0817-design-hashmap](https://github.com/K-c-17/leetcode_practice/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
