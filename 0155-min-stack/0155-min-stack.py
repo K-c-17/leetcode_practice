@@ -2,7 +2,6 @@ class MinStack(object):
 
     def __init__(self):
         self.arr=[]
-        self.min_val=float("inf")
         
 
     def push(self, val):
