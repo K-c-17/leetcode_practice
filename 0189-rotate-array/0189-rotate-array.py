@@ -6,6 +6,7 @@ class Solution(object):
         :rtype: None Do not return anything, modify nums in-place instead.
         """
         #O(n) time complexity
+        '''
         if len(nums)==1:
             return nums
      
@@ -37,3 +38,30 @@ class Solution(object):
             last-=1
         
         return nums
+        '''
+        
+        #O(n*k) time complexity
+        '''
+        for _ in range(k):
+            temp=nums[0]
+            for i in range(1,len(nums)):
+                temp2=nums[i]
+                nums[i]=temp
+                temp=temp2
+                if i==len(nums)-1:
+                    nums[0]=temp
+
+        return nums
+        '''        
+        
+        #O(N) space complexity
+        
+        final=[None for _ in nums]
+        size=len(nums)
+        for r in range(size):
+            idx=(r+k)%len(nums)
+            final[idx]=nums[r]
+        nums[:]=final
+        
+        return nums
+       
