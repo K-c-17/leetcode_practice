@@ -6,9 +6,9 @@ class Solution(object):
         :rtype: None Do not return anything, modify nums in-place instead.
         """
         #O(n) time complexity
-        '''
-        if len(nums)==1:
-            return nums
+        
+        # if len(nums)==1:
+        #     return nums
      
         #reverse the entire array
         start=0
@@ -38,7 +38,7 @@ class Solution(object):
             last-=1
         
         return nums
-        '''
+       
         
         #O(n*k) time complexity
         '''
@@ -55,7 +55,7 @@ class Solution(object):
         '''        
         
         #O(N) space complexity
-        
+        '''
         final=[None for _ in nums]
         size=len(nums)
         for r in range(size):
@@ -64,4 +64,4 @@ class Solution(object):
         nums[:]=final
         
         return nums
-       
+        '''
