@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-maximum-difference-between-increasing-elements](https://github.com/K-c-17/leetcode_practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2245-destroying-asteroids](https://github.com/K-c-17/leetcode_practice/tree/master/2245-destroying-asteroids) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/K-c-17/leetcode_practice/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2358-number-of-ways-to-split-array](https://github.com/K-c-17/leetcode_practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/K-c-17/leetcode_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2594-count-pairs-of-similar-strings](https://github.com/K-c-17/leetcode_practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/K-c-17/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/K-c-17/leetcode_practice/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/K-c-17/leetcode_practice/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/K-c-17/leetcode_practice/tree/master/2102-find-the-middle-index-in-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/K-c-17/leetcode_practice/tree/master/2358-number-of-ways-to-split-array) |
 ## Matrix
 |  |
 | ------- |
