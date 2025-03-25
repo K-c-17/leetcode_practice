@@ -17,8 +17,8 @@ class Solution(object):
             right_sum[j]=prev
             prev+=nums[j]
         
-        print(left_sum)
-        print(right_sum)
+        # print(left_sum)
+        # print(right_sum)
         for k in range(len(left_sum)):
             if left_sum[k]==right_sum[k]:
                 return k
