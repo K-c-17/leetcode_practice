@@ -4,11 +4,27 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        total=sum(nums)
+        left=0
+        valid=0
+
+        for i in range(len(nums)-1):
+            left+=nums[i]
+            right=total-left
+
+            if left>=right:
+                # print("value of left:",left)
+                # print('value of right:',right)
+                valid+=1
+        
+        return valid       
+        
+        
+        '''
         left_sum=[0]*len(nums)
         right_sum=[0]*len(nums)
 
         prev=0
-
         for i in range(len(nums)):
             prev+=nums[i]
             left_sum[i]=prev
@@ -26,6 +42,7 @@ class Solution(object):
             if left_sum[k]>=right_sum[k]:
                 valid+=1
         return valid
+        '''
 
 
         
