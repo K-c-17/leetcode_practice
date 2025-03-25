@@ -13,8 +13,6 @@ class Solution(object):
             right=total-left
 
             if left>=right:
-                # print("value of left:",left)
-                # print('value of right:',right)
                 valid+=1
         
         return valid       
