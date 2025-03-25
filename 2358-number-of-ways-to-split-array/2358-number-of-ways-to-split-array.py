@@ -18,6 +18,7 @@ class Solution(object):
         return valid       
         
         
+        #Prefix & suffix sum approach
         '''
         left_sum=[0]*len(nums)
         right_sum=[0]*len(nums)
