@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/K-c-17/leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/K-c-17/leetcode_practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/K-c-17/leetcode_practice/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/K-c-17/leetcode_practice/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/K-c-17/leetcode_practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2245-destroying-asteroids](https://github.com/K-c-17/leetcode_practice/tree/master/2245-destroying-asteroids) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/K-c-17/leetcode_practice/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/K-c-17/leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/K-c-17/leetcode_practice/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/K-c-17/leetcode_practice/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/K-c-17/leetcode_practice/tree/master/2102-find-the-middle-index-in-array) |
 ## Matrix
 |  |
 | ------- |
