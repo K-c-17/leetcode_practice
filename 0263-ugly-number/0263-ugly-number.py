@@ -7,7 +7,7 @@ class Solution(object):
         """
         curr=n
 
-        if curr==0 or curr<0:
+        if curr<=0:
             return False
         
         while curr!=1:
