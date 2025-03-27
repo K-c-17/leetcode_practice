@@ -6,7 +6,7 @@ class Solution(object):
         :rtype: bool
         """
         curr=n
-        
+
         if curr==0 or curr<0:
             return False
         
