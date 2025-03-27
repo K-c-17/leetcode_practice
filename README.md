@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-c-17/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K-c-17/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/K-c-17/leetcode_practice/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/K-c-17/leetcode_practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/K-c-17/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/K-c-17/leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/K-c-17/leetcode_practice/tree/master/0283-move-zeroes) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/K-c-17/leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/K-c-17/leetcode_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/K-c-17/leetcode_practice/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/K-c-17/leetcode_practice/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/K-c-17/leetcode_practice/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -348,4 +350,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/K-c-17/leetcode_practice/tree/master/0817-design-hashmap) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/K-c-17/leetcode_practice/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/K-c-17/leetcode_practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
