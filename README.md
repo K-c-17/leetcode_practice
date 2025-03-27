@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/K-c-17/leetcode_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/K-c-17/leetcode_practice/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/K-c-17/leetcode_practice/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/K-c-17/leetcode_practice/tree/master/0263-ugly-number) |
 | [1013-fibonacci-number](https://github.com/K-c-17/leetcode_practice/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
