@@ -4,6 +4,24 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
+        count=defaultdict(int)
+        
+        for i in nums:
+            count[i]+=1
+        
+        nums[0:count[0]]=[0]*count[0]
+        nums[count[0]:count[0]+count[1]]=[1]*count[1]
+        nums[count[0]+count[1]:count[0]+count[1]+count[2]]=[2]*count[2]
+
+
+
+
+
+
+
+
+        #Complexity= O(N**2)
+        '''
         for i in range(1,len(nums)):
             curr=nums[i]
             j=i-1
@@ -11,6 +29,7 @@ class Solution(object):
                 nums[j+1]=nums[j]
                 j-=1
             nums[j+1]=curr
+        '''
         
 
 
