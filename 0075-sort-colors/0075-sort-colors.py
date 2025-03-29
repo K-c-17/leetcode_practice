@@ -14,7 +14,6 @@ class Solution(object):
             end+=count[j]
             nums[start:end]=[j]*count[j]
             start=end
-            print(nums)
         
         '''
         nums[0:count[0]]=[0]*count[0]
