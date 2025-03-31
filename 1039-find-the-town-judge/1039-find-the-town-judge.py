@@ -13,8 +13,8 @@ class Solution(object):
             nums_of_depend[i[1]]+=1
             dependent.add(i[0])
         
-        print(nums_of_depend)
-        print(dependent)
+        # print(nums_of_depend)
+        # print(dependent)
         if not nums_of_depend or not dependent:
             if n==1:
                 return 1
