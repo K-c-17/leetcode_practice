@@ -374,4 +374,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/K-c-17/leetcode_practice/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/K-c-17/leetcode_practice/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
