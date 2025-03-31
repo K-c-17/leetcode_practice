@@ -6,6 +6,9 @@ class Solution(object):
         :rtype: int
         """
         
+        if n==1:
+            return 1 if not trust else -1
+            
         dependent=set()
         nums_of_depend=defaultdict(int)
 
@@ -15,11 +18,7 @@ class Solution(object):
         
         # print(nums_of_depend)
         # print(dependent)
-        if not nums_of_depend or not dependent:
-            if n==1:
-                return 1
-            else:
-                return -1
+
         for j in nums_of_depend:
             if j not in dependent and nums_of_depend[j]==n-1:
                 return j
