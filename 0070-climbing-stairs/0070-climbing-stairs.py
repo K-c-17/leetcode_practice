@@ -18,6 +18,7 @@ class Solution(object):
         '''
 
         #Top down dp with memoization
+        '''
         dp={}
         return self.climbStairs_helper(n,dp)
     
@@ -32,5 +33,13 @@ class Solution(object):
                 subP2=self.climbStairs_helper(n-2,dp)
                 dp[n]=subP1+subP2
             return dp[n]
+        '''
+
+        #Bottom Up dp with tabulation
+        dp=[1,2]
+        for i in range(2,n):
+            dp.append(dp[i-1]+dp[i-2])
+        print(dp)
+        return dp[n-1]
 
         
