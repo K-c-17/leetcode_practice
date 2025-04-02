@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/K-c-17/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-c-17/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/K-c-17/leetcode_practice/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/K-c-17/leetcode_practice/tree/master/1013-fibonacci-number) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/K-c-17/leetcode_practice/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/K-c-17/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/K-c-17/leetcode_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/K-c-17/leetcode_practice/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/K-c-17/leetcode_practice/tree/master/0204-count-primes) |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/K-c-17/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/K-c-17/leetcode_practice/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
