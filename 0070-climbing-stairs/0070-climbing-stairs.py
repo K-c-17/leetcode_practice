@@ -17,6 +17,7 @@ class Solution(object):
             return subP1+subP2
         '''
 
+        #Top down dp with memoization
         dp={}
         return self.climbStairs_helper(n,dp)
     
