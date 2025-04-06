@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/K-c-17/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/K-c-17/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/K-c-17/leetcode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/K-c-17/leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/K-c-17/leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/K-c-17/leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/K-c-17/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-c-17/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/K-c-17/leetcode_practice/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/K-c-17/leetcode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/K-c-17/leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/K-c-17/leetcode_practice/tree/master/1013-fibonacci-number) |
 ## Stack
