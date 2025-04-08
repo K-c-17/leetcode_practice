@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/K-c-17/leetcode_practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/K-c-17/leetcode_practice/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K-c-17/leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0270-closest-binary-search-tree-value](https://github.com/K-c-17/leetcode_practice/tree/master/0270-closest-binary-search-tree-value) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/K-c-17/leetcode_practice/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/K-c-17/leetcode_practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/K-c-17/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/K-c-17/leetcode_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/K-c-17/leetcode_practice/tree/master/0202-happy-number) |
