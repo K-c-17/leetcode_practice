@@ -9,6 +9,30 @@ class Solution(object):
                 return 0
             else:
                 return abs(y-x)
+
+        stones=[-s for s in stones]
+        heap=heapq.heapify(stones)
+
+        while len(stones)>1:
+            h=heapq.heappop(stones)
+            sh=heapq.heappop(stones)
+            result=smash(abs(h),abs(sh))
+
+            heapq.heappush(stones,-1*result)
+        
+        return abs(stones[0])
+
+
+        
+
+
+        #O(N**2) Sorting implementation
+        '''
+        def smash(y,x):
+            if x==y:
+                return 0
+            else:
+                return abs(y-x)
         
         while len(stones)>1:
             stones.sort()
@@ -21,6 +45,7 @@ class Solution(object):
             #print("Stones",stones)
         
         return stones[0]
+        '''
             
         
             
