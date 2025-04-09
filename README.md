@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/K-c-17/leetcode_practice/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/K-c-17/leetcode_practice/tree/master/1044-find-common-characters) |
 | [1074-high-five](https://github.com/K-c-17/leetcode_practice/tree/master/1074-high-five) |
+| [1127-last-stone-weight](https://github.com/K-c-17/leetcode_practice/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/K-c-17/leetcode_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/K-c-17/leetcode_practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/K-c-17/leetcode_practice/tree/master/1833-find-the-highest-altitude) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1074-high-five](https://github.com/K-c-17/leetcode_practice/tree/master/1074-high-five) |
+| [1127-last-stone-weight](https://github.com/K-c-17/leetcode_practice/tree/master/1127-last-stone-weight) |
 ## Queue
 |  |
 | ------- |
