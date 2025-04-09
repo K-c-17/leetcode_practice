@@ -5,10 +5,7 @@ class Solution(object):
         :rtype: int
         """
         def smash(y,x):
-            if x==y:
-                return 0
-            else:
-                return abs(y-x)
+            return abs(y-x)
 
         stones=[-s for s in stones]
         heap=heapq.heapify(stones)
