@@ -4,6 +4,7 @@ class Solution(object):
         :type stones: List[int]
         :rtype: int
         """
+        # min heap based implementation
         stones=[-s for s in stones]
         heap=heapq.heapify(stones)
 
