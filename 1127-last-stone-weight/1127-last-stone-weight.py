@@ -4,16 +4,13 @@ class Solution(object):
         :type stones: List[int]
         :rtype: int
         """
-        def smash(y,x):
-            return abs(y-x)
-
         stones=[-s for s in stones]
         heap=heapq.heapify(stones)
 
         while len(stones)>1:
             h=heapq.heappop(stones)
             sh=heapq.heappop(stones)
-            result=smash(abs(h),abs(sh))
+            result=abs(h)-abs(sh)
 
             heapq.heappush(stones,-1*result)
         
