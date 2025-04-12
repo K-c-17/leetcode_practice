@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/K-c-17/leetcode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/K-c-17/leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/K-c-17/leetcode_practice/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/K-c-17/leetcode_practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/K-c-17/leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/K-c-17/leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/K-c-17/leetcode_practice/tree/master/0724-find-pivot-index) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/K-c-17/leetcode_practice/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/K-c-17/leetcode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/K-c-17/leetcode_practice/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/K-c-17/leetcode_practice/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/K-c-17/leetcode_practice/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
@@ -396,4 +398,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1039-find-the-town-judge](https://github.com/K-c-17/leetcode_practice/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/K-c-17/leetcode_practice/tree/master/1916-find-center-of-star-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/K-c-17/leetcode_practice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
