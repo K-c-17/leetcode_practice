@@ -9,7 +9,7 @@ class Solution(object):
             return 0
         
         s1=(sum(nums)-target)//2
-        print("s1: ",s1)
+        #print("s1: ",s1)
 
         return self.subsetSum(nums,s1)
 
@@ -18,7 +18,7 @@ class Solution(object):
         
         #intialization of matrix
         dp=[[0]*(cap+1) for _ in range(n+1)]
-        print(dp)
+        #print(dp)
         for i in range(n+1):
             dp[i][0]=1
         
