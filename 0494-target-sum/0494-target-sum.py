@@ -19,8 +19,8 @@ class Solution(object):
         #intialization of matrix
         dp=[[0]*(cap+1) for _ in range(n+1)]
         #print(dp)
-        for i in range(n+1):
-            dp[i][0]=1
+        # for i in range(n+1):
+        dp[0][0]=1
         
         for j in range(1,n+1):
             for k in range(cap+1):
