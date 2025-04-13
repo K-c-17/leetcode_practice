@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/K-c-17/leetcode_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2594-count-pairs-of-similar-strings](https://github.com/K-c-17/leetcode_practice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/K-c-17/leetcode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/K-c-17/leetcode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-c-17/leetcode_practice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/K-c-17/leetcode_practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/K-c-17/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/K-c-17/leetcode_practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/2470-removing-stars-from-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/K-c-17/leetcode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Greedy
 |  |
 | ------- |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1074-high-five](https://github.com/K-c-17/leetcode_practice/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/K-c-17/leetcode_practice/tree/master/1127-last-stone-weight) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/K-c-17/leetcode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Queue
 |  |
 | ------- |
