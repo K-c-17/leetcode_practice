@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/K-c-17/leetcode_practice/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/K-c-17/leetcode_practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/K-c-17/leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/K-c-17/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/K-c-17/leetcode_practice/tree/master/0322-coin-change) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/K-c-17/leetcode_practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/K-c-17/leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/K-c-17/leetcode_practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/K-c-17/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/K-c-17/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/K-c-17/leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/K-c-17/leetcode_practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String Matching
