@@ -18,13 +18,12 @@ class Solution(object):
                         return True
         return False
         '''
-        seen = set()
-        
+        mapping={}
+
         for i in range(len(nums)):
-            if nums[i] in seen:
+            if nums[i] in mapping and i-mapping[nums[i]]<=k:
                 return True
-            seen.add(nums[i])
-            if len(seen) > k:
-                seen.remove(nums[i - k])
-        
+            else:
+                mapping[nums[i]]=i
         return False
+        
