@@ -12,7 +12,6 @@ class Solution(object):
         
         for j in mapping:
             if len(mapping[j])>=2:
-                mapping[j].sort()
                 for i in range(len(mapping[j])-1):
                     if abs(mapping[j][i+1]-mapping[j][i])<=k:
                         return True
