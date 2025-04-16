@@ -8,7 +8,7 @@ class Solution(object):
         mapping=defaultdict(list)
         for i in range(len(nums)):
             mapping[nums[i]].append(i)
-        print("Mapping is: ",mapping)
+        #print("Mapping is: ",mapping)
         
         for j in mapping:
             if len(mapping[j])>=2:
