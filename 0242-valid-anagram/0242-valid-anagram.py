@@ -5,5 +5,11 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        return True if ''.join(sorted(s)) == ''.join(sorted(t)) else False
+        if len(s)!=len(t):
+            return False
+
+        s_map=collections.Counter(s)
+        t_map=collections.Counter(t)
+
+        return all(i in t_map and s_map[i]==t_map[i] for i in s_map.keys())
         
