@@ -7,6 +7,11 @@ class Solution(object):
         """
         freq=collections.Counter(nums)
         
-        return sorted(freq,key=freq.get,reverse=True)[:k]
+        # return sorted(freq,key=freq.get,reverse=True)[:k]
+        
+        return heapq.nlargest(k,freq,key=freq.get)
+
+
+
 
         
