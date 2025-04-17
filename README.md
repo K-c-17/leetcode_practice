@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/K-c-17/leetcode_practice/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/K-c-17/leetcode_practice/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/K-c-17/leetcode_practice/tree/master/1044-find-common-characters) |
+| [1250-longest-common-subsequence](https://github.com/K-c-17/leetcode_practice/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/K-c-17/leetcode_practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/K-c-17/leetcode_practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/K-c-17/leetcode_practice/tree/master/1894-merge-strings-alternately) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/K-c-17/leetcode_practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/K-c-17/leetcode_practice/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/K-c-17/leetcode_practice/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
