@@ -8,19 +8,19 @@ class Solution(object):
             return 0
         
         set_original=set(nums)
-        temp=[]
+        start_points=[]
+        
         for i in set_original:
             if i-1 not in set_original:
-                temp.append(i)
-        #print(temp)
+                start_points.append(i)
+
         seq=1
-        for j in temp:
-            cnt=1
+        for j in start_points:
             inc=0
             while j+inc in set_original:
-                seq=max(seq,cnt+inc)
+                curr_len=inc+1
                 inc+=1
-                #print('For', j, 'iter value of seq is:', seq)
+            seq=max(seq,curr_len)
         
         return seq
 
