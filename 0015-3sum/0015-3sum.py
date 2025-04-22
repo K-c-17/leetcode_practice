@@ -9,7 +9,6 @@ class Solution(object):
         target=0
 
         for i in range(len(sor_nums)-2):
-            #print('number of iteration: ',i)
             if i>0 and sor_nums[i]==sor_nums[i-1]:
                 continue
             residual_sum=target-sor_nums[i]
@@ -26,7 +25,6 @@ class Solution(object):
                     right-=1
                     while sor_nums[right] == sor_nums[right+1] and right>left:
                         right-=1
-                #print('value of res:',res)
         return res
 
 
