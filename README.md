@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1181-game-play-analysis-iii](https://github.com/K-c-17/leetcode_practice/tree/master/1181-game-play-analysis-iii) |
 | [1390-average-selling-price](https://github.com/K-c-17/leetcode_practice/tree/master/1390-average-selling-price) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/K-c-17/leetcode_practice/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1974-find-customers-with-positive-revenue-this-year](https://github.com/K-c-17/leetcode_practice/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 ## Prefix Sum
 |  |
 | ------- |
