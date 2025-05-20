@@ -11,7 +11,7 @@ class Solution(object):
         while left<right:
             if s[left].isalnum() and s[right].isalnum():
                 if s[left].lower() != s[right].lower():
-                    print(s[left],s[right])
+                    #print(s[left],s[right])
                     return False
                 else:
                     left+=1
