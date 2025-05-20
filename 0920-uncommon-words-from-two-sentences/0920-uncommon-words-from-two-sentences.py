@@ -8,7 +8,7 @@ class Solution(object):
         s1_freq,s2_freq=Counter(s1.split(" ")),Counter(s2.split(" "))
 
         final=[]
-        #print(s1_freq,s2_freq)
+
         for i in s1_freq:
             if (s1_freq[i]==1 and i not in s2_freq):
                 final.append(i)
