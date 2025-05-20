@@ -14,6 +14,7 @@ class Solution(object):
                     stack.append(i)
         
         final,j=[],0
+        stack=set(stack)
         #print(stack)
         while j<len(s):
             if j not in stack:
