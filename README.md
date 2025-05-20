@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/K-c-17/leetcode_practice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/K-c-17/leetcode_practice/tree/master/0394-decode-string) |
+| [0408-valid-word-abbreviation](https://github.com/K-c-17/leetcode_practice/tree/master/0408-valid-word-abbreviation) |
 | [0409-longest-palindrome](https://github.com/K-c-17/leetcode_practice/tree/master/0409-longest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/K-c-17/leetcode_practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/K-c-17/leetcode_practice/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/K-c-17/leetcode_practice/tree/master/0392-is-subsequence) |
+| [0408-valid-word-abbreviation](https://github.com/K-c-17/leetcode_practice/tree/master/0408-valid-word-abbreviation) |
 | [0455-assign-cookies](https://github.com/K-c-17/leetcode_practice/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/K-c-17/leetcode_practice/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/K-c-17/leetcode_practice/tree/master/1894-merge-strings-alternately) |
