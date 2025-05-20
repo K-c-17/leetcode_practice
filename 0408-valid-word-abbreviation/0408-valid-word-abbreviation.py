@@ -8,17 +8,19 @@ class Solution(object):
         i,j=0,0
 
         while i<len(word) and j<len(abbr):
+            
             #if an alphabet
             if abbr[j].isalpha():
                 if word[i]!=abbr[j]:
-                    print("first")
+                    # print("first")
                     return False
                 else:
                     i+=1
                     j+=1
+            
             #not an alphabet
             elif abbr[j]=='0':
-                print("second")
+                # print("second")
                 return False
             
             elif abbr[j].isdigit():
@@ -27,6 +29,7 @@ class Solution(object):
                     num+=abbr[j]
                     j+=1
                 i+=int(num)
-        print("third")    
+        
+        # print("third")    
         return (i==len(word)) and (j==len(abbr))
             
