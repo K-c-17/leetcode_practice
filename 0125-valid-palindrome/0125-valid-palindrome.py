@@ -4,24 +4,50 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        left=0
-        right=len(s)-1
+        t_s=[lower(x) for x in s if x.isalnum()]
 
-        while left<right:
-            if s[left].isalnum() and s[right].isalnum():
-                if s[left].lower() != s[right].lower():
-                    print(s[left],s[right])
-                    return False
-                else:
-                    left+=1
-                    right-=1
-            else:
-                if not s[left].isalnum():
-                    left+=1
-                if not s[right].isalnum():
-                    right-=1
+        return t_s[::]==t_s[::-1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        # left=0
+        # right=len(s)-1
+
+        # while left<right:
+        #     if s[left].isalnum() and s[right].isalnum():
+        #         if s[left].lower() != s[right].lower():
+        #             print(s[left],s[right])
+        #             return False
+        #         else:
+        #             left+=1
+        #             right-=1
+        #     else:
+        #         if not s[left].isalnum():
+        #             left+=1
+        #         if not s[right].isalnum():
+        #             right-=1
             
-        return True
+        # return True
 
 
 
