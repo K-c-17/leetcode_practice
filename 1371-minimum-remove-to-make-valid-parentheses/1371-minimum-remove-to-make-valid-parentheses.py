@@ -8,12 +8,9 @@ class Solution(object):
 
         for i in range(len(s)):
             if s[i] in ('(',')'):
-                if stack:
-                    if s[i]==')' and s[stack[-1]]=='(':
-                        stack.pop()
-                    else:
-                        stack.append(i)
-                elif not stack:
+                if stack and s[i]==')' and s[stack[-1]]=='(':
+                    stack.pop()
+                else:
                     stack.append(i)
         
         final,j=[],0
