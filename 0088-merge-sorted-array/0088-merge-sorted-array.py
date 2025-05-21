@@ -21,7 +21,7 @@ class Solution(object):
                 i+=1
                 k+=1
         
-        print(temp,i,j,k)
+        #print(temp,i,j,k)
         if i<m:
             temp[k:]=nums1[i:m]
         elif j<n:
