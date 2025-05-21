@@ -19,7 +19,7 @@ class Solution(object):
                 m-=1
             
             last-=1
-        
+        #adding the leftover of nums2 into nums1
         while n>0:
             nums1[last]=nums2[n-1]
             n-=1
