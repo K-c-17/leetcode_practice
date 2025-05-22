@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/K-c-17/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/K-c-17/leetcode_practice/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/K-c-17/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/K-c-17/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/K-c-17/leetcode_practice/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/K-c-17/leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/K-c-17/leetcode_practice/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/K-c-17/leetcode_practice/tree/master/0496-next-greater-element-i) |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/K-c-17/leetcode_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/K-c-17/leetcode_practice/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/K-c-17/leetcode_practice/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/K-c-17/leetcode_practice/tree/master/0263-ugly-number) |
 | [1013-fibonacci-number](https://github.com/K-c-17/leetcode_practice/tree/master/1013-fibonacci-number) |
 ## Recursion
