@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/K-c-17/leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/K-c-17/leetcode_practice/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/K-c-17/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/K-c-17/leetcode_practice/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/K-c-17/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/K-c-17/leetcode_practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/K-c-17/leetcode_practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/K-c-17/leetcode_practice/tree/master/0234-palindrome-linked-list) |
+| [0253-meeting-rooms-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/K-c-17/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/K-c-17/leetcode_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/K-c-17/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/K-c-17/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/K-c-17/leetcode_practice/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/K-c-17/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -232,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/K-c-17/leetcode_practice/tree/master/0011-container-with-most-water) |
+| [0253-meeting-rooms-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/K-c-17/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/K-c-17/leetcode_practice/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/K-c-17/leetcode_practice/tree/master/0435-non-overlapping-intervals) |
@@ -242,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/K-c-17/leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/K-c-17/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [1074-high-five](https://github.com/K-c-17/leetcode_practice/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/K-c-17/leetcode_practice/tree/master/1127-last-stone-weight) |
@@ -302,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/K-c-17/leetcode_practice/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0724-find-pivot-index](https://github.com/K-c-17/leetcode_practice/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/K-c-17/leetcode_practice/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/K-c-17/leetcode_practice/tree/master/2102-find-the-middle-index-in-array) |
