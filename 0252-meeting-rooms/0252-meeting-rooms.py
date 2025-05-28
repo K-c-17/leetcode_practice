@@ -4,11 +4,13 @@ class Solution(object):
         :type intervals: List[List[int]]
         :rtype: bool
         """
-        for i in range(len(intervals)):
-            for j in range(len(intervals)-i-1):
-                if intervals[j][0]>intervals[j+1][0]:
-                    intervals[j],intervals[j+1]=intervals[j+1],intervals[j]
-        
+        #Bubble Sort
+        # for i in range(len(intervals)):
+        #     for j in range(len(intervals)-i-1):
+        #         if intervals[j][0]>intervals[j+1][0]:
+        #             intervals[j],intervals[j+1]=intervals[j+1],intervals[j]
+        intervals.sort(key=lambda x: x[0])
+
         # print(intervals)
         for k in range(len(intervals)-1):
             if intervals[k][1]>intervals[k+1][0]:
