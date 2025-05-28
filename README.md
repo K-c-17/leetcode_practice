@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/K-c-17/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/K-c-17/leetcode_practice/tree/master/0238-product-of-array-except-self) |
+| [0252-meeting-rooms](https://github.com/K-c-17/leetcode_practice/tree/master/0252-meeting-rooms) |
 | [0283-move-zeroes](https://github.com/K-c-17/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/K-c-17/leetcode_practice/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/K-c-17/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/K-c-17/leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/K-c-17/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/K-c-17/leetcode_practice/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/K-c-17/leetcode_practice/tree/master/0252-meeting-rooms) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/K-c-17/leetcode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/K-c-17/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-c-17/leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
