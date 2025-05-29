@@ -9,13 +9,6 @@ class Solution(object):
         x=len(needle)
         i=0
 
-        if diff==0:
-            if haystack==needle:
-                return 0
-            else:
-                return -1
-
-
         while i<=diff:
             if haystack[i:i+x]==needle:
                 return i
